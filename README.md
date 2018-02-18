@@ -149,14 +149,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-- Title (goal):   
-    User should be able to find new movies and get more info.
-- Primary User
-    Anyone looking for new movies.
-- Scope
-    easy way to find new movies.
-- Story
-    After selecting the movie the user will end up on new page with full description.
+![flix](flix3.gif)
 
 ## Notes
 
